@@ -18,12 +18,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" **alt="ubuntu" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" **alt="mysql" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React-js" **alt="React" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="sass" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" **alt="html5" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" **alt="CSS" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dotnet" **alt="dotnet" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" **alt="flask" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" **alt="git" width="60" height="60"/>
 </div>
