@@ -3,7 +3,7 @@
 - 🔭 I'm a Computer Engineering student.
 - 🌱 I spend most of my time Building React Applications.
 - 👯 I'm passionate about learning new technologies.
-- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-harby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsayed-abdullah-0a21461a1/)
+- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsayed-abdullah-0a21461a1/)
 
 ---
 
